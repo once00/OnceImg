@@ -1,6 +1,6 @@
 //
-//  OnceImgUITests.m
-//  OnceImgUITests
+//  OnceImgDemoUITests.m
+//  OnceImgDemoUITests
 //
 //  Created by 曹绍奇 on 2017/9/22.
 //  Copyright © 2017年 曹绍奇. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface OnceImgUITests : XCTestCase
+@interface OnceImgDemoUITests : XCTestCase
 
 @end
 
-@implementation OnceImgUITests
+@implementation OnceImgDemoUITests
 
 - (void)setUp {
     [super setUp];
